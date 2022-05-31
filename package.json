@@ -21,7 +21,11 @@
 		"!dist/*.tsbuildinfo",
 		"!dist/__tests__"
 	],
-	"scripts": {},
+	"scripts": {
+		"lint": "npx eslint src --fix",
+		"format": "npx prettier --write src",
+		"build": "npx tsc -b ."
+	},
 	"devDependencies": {
 		"@types/node": "^17.0.38",
 		"@typescript-eslint/eslint-plugin": "^5.27.0",
