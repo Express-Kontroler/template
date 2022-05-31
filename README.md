@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://imgur.com/xPygSgY.png" align="center" width="15%" alt="">
 
-# Kontroller Template
+# Kontroler Template
 
-**_A template for Kontroller projects._**
+**_A template for Kontroler projects._**
 
 </div>

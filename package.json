@@ -1,6 +1,6 @@
 {
 	"name": "@kontroler/template",
-	"description": "A template for Kontroller projects.",
+	"description": "A template for Kontroler projects.",
 	"license": "Apache-2.0",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:express-kontroler/kontroller-template.git"
+		"url": "git@github.com:express-kontroler/kontroler-template.git"
 	},
 	"publishConfig": {
 		"access": "public"
