@@ -2,7 +2,7 @@ name: Continuous Delivery
 
 on:
     release:
-        type: [released]
+        types: [released]
 
 jobs:
     Publish:
