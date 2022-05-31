@@ -24,7 +24,8 @@
 	"scripts": {
 		"lint": "npx eslint src --fix",
 		"format": "npx prettier --write src",
-		"build": "npx tsc -b ."
+		"build": "npx tsc -b .",
+		"test": "npx jest --coverage"
 	},
 	"devDependencies": {
 		"@types/jest": "^27.5.1",
