@@ -25,8 +25,7 @@
 		"format": "npx prettier --write src",
 		"build": "npx tsc -b .",
 		"test": "npx jest --coverage",
-		"dev": "npx nodemon",
-		"postinstall": "pnpm dev"
+		"dev": "npx nodemon"
 	},
 	"devDependencies": {
 		"@types/jest": "^27.5.1",
