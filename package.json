@@ -24,7 +24,9 @@
 		"lint": "npx eslint src --fix",
 		"format": "npx prettier --write src",
 		"build": "npx tsc -b .",
-		"test": "npx jest --coverage"
+		"test": "npx jest --coverage",
+		"dev": "npx nodemon",
+		"postinstall": "pnpm dev"
 	},
 	"devDependencies": {
 		"@types/jest": "^27.5.1",
