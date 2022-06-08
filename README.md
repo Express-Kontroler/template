@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/xPygSgY.png" align="center" width="15%" alt="">
+<img src="https://imgur.com/0PQfddl.png" align="center" width="15%" alt="">
 
 # Kontroler Template
 
