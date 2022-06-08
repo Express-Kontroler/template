@@ -39,6 +39,7 @@
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"noImplicitReturns": true,
+		"noUncheckedIndexedAccess": true,
 		"noFallthroughCasesInSwitch": true,
 
 		/* Completeness */
