@@ -26,6 +26,6 @@ jobs:
             - name: Build project
               run: pnpm build
             - name: Publish
-              run: pnpm publish
+              run: pnpm publish --dry-run # remove
               env:
                   NPM_PUBLISH_TOKEN: ${{ secrets.NPM_PUBLISH_TOKEN }}
